@@ -75,7 +75,7 @@ This project provides a comprehensive analysis of hotel booking cancellation dat
 
 **Hitesh Bardia**  
 B.Tech in Computer Science  
-Email: hiteshbardia@gmail.com  
+Email: hiteshbardia07@gmail.com  
 
 ---
 
